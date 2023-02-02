@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;gap:20px;min-height:100vh;padding:20px}.search-bar{border:1px solid #d3d3d3;border-radius:5px;padding:15px}.search-bar form{display:flex;flex-direction:column}.search-bar form label{font-size:20px;font-weight:700;padding:5px 0}.input{background:#eee;border:1px solid #d3d3d3;border-radius:5px;font-size:16px;padding:8px 10px}.image-list{-webkit-column-gap:10px;column-gap:10px;-webkit-columns:200px 6;columns:200px 6}img{margin-bottom:10px;width:100%}
+/*# sourceMappingURL=main.5229e57f.css.map*/
